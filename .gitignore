@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Icon?
+._*
+
+# Alfred
+*.alfredpreferences
+# we do want to track the .alfredworkflow bundles themselves, so don’t ignore *.alfredworkflow
+
+# Editor temp files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# Node / Python / etc. — if you ever add code
+node_modules/
+__pycache__/
