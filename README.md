@@ -49,3 +49,7 @@ An Alfred 5 workflow to search open Safari tabs by keyword (in title or URL) and
 ## License
 
 MIT © Jason Vanderburg
+
+## Download
+
+https://github.com/jason-vanderburg/FindSafariTab/releases/download/v1.0.0/FindSafariTab.alfredworkflow
