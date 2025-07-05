@@ -19,7 +19,7 @@ An Alfred 5 workflow to search open Safari tabs by keyword (in title or URL) and
    ```
 
 2. Import the workflow:  
-   - Double-click `find-safari-tab.alfredworkflow`  
+   - Double-click `FindSafariTab.alfredworkflow`  
    - Open **System Settings → Privacy & Security → Accessibility** and ensure **Alfred 5** is checked  
    - Then in **Privacy & Security → Automation**, allow **Alfred** to control **Safari**
 
@@ -36,8 +36,6 @@ An Alfred 5 workflow to search open Safari tabs by keyword (in title or URL) and
   ```
   Safari will front the first tab whose title or URL contains `<search-term>`.
 
-- **Hotkey trigger** (if configured)  
-  Press your hotkey (e.g. ⌥⌘F), type the term, then ↩︎.
 
 ## Troubleshooting
 
@@ -50,4 +48,4 @@ An Alfred 5 workflow to search open Safari tabs by keyword (in title or URL) and
 
 ## License
 
-MIT © Your Name
+MIT © Jason Vanderburg
